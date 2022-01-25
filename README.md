@@ -12,7 +12,7 @@ Having sorted them out, we're nowhere far from creating an API for Phigros!
 We've hosted a website called [**PhiZone**](https://www.phi.zone), which serves the information mentioned above.
 
 Feel free to visit the API at:
-  - https://api.phi.zone/files (self-hosted server in Hong Kong, indexed)
+  - https://api.phi.zone (self-hosted server in Hong Kong, indexed)
   - https://api.neonmc.top:6600 (self-hosted server in Beijing, indexed)
   - https://phi-zone.github.io (GitHub mirror, not indexed)
 
